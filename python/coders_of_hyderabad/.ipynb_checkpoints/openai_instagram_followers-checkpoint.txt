@@ -1,0 +1,99 @@
+name|posts|followers|following|category|bio
+Sam Altman|312|1200000|480|Person of public figure|CEO of OpenAI, building safe and beneficial AI
+Greg Brockman|198|430000|310|Person of public figure|President at OpenAI, co-founder
+Ilya Sutskever|45|980000|120|Scientist|Co-founder & Chief Scientist at OpenAI
+Karol Hausman|87|52000|340|Scientist|Research scientist at Google DeepMind
+Andrew Ng|520|3100000|890|Education|Co-founder of Coursera, DeepLearning.AI, Stanford prof
+Yann LeCun|634|780000|1200|Scientist|Chief AI Scientist at Meta, Turing Award winner
+Geoffrey Hinton|23|650000|90|Scientist|Godfather of deep learning, Nobel Prize winner
+Demis Hassabis|156|920000|270|Person of public figure|CEO of Google DeepMind, Nobel Prize winner
+Max Tegmark|210|340000|560|Scientist|MIT professor, AI safety researcher, Future of Life Institute
+Lex Fridman|890|4200000|1100|Digital creator|AI researcher & podcaster at MIT
+Andrej Karpathy|143|1500000|420|Digital creator|Former Tesla AI director, ex-OpenAI, educator
+Gary Marcus|467|230000|980|Scientist|NYU professor, AI critic and author
+AI Explained|267|890000|320|Digital creator|Breaking down AI research for everyone
+MIT CSAIL|1230|510000|890|Education|MIT's Computer Science and Artificial Intelligence Lab
+Stanford HAI|876|380000|560|Non-profit organization|Human-centered AI research at Stanford University
+DeepMind|2100|2800000|340|Software company|Building AI responsibly for the long-term benefit of humanity
+Meta AI|1870|3100000|520|Software company|AI research and engineering at Meta
+Google AI|3200|4500000|780|Software company|Advancing AI for everyone at Google
+Microsoft AI|2780|2200000|650|Software company|AI products and research from Microsoft
+IBM Research|4100|890000|1200|Software company|Pioneering AI research since 1956
+NVIDIA AI|1980|3400000|430|Software company|Accelerating AI with GPU computing
+Hugging Face|1560|2100000|980|Software company|The AI community building the future of ML
+Mistral AI|342|780000|210|Software company|Frontier AI built in Europe, open and efficient
+Anthropic|567|1200000|340|Software company|AI safety company, makers of Claude
+Stability AI|890|650000|420|Software company|Activating humanity's potential through AI
+Cohere|423|290000|310|Software company|AI for the enterprise, making NLP accessible
+AI21 Labs|312|180000|270|Software company|Building AI systems that understand and generate language
+Inflection AI|156|320000|190|Software company|Building AI for personal use
+Adept AI|234|140000|230|Software company|AI that takes actions, not just generates text
+xAI|678|980000|420|Software company|Understanding the universe with AI, founded by Elon Musk
+Perplexity AI|456|870000|380|Software company|AI-powered search and answer engine
+Midjourney|2340|4800000|320|Digital creator|An independent AI research lab exploring new mediums
+Runway ML|1120|1900000|540|Software company|AI-powered creative tools for video and images
+ElevenLabs|876|1100000|380|Software company|AI voice technology for everyone
+AI Safety Institute|234|180000|290|Non-profit organization|UK government institute for AI safety research
+Partnership on AI|312|120000|340|Non-profit organization|Multi-stakeholder org for responsible AI development
+Center for AI Safety|189|230000|210|Non-profit organization|Reducing societal-scale risks from AI
+Future of Life Institute|423|340000|560|Non-profit organization|Steering transformative technology towards a good future
+ML Street Talk|678|430000|890|Digital creator|Deep ML research discussions and interviews
+Yannick Kilcher|890|620000|340|Digital creator|ML researcher and YouTube educator
+Two Minute Papers|1340|2100000|450|Digital creator|Amazing AI research in bite-sized videos
+AI Breakdown|567|780000|320|Digital creator|Daily AI news and research explained simply
+Harrison Kinsley|1230|890000|670|Digital creator|Python and AI programming tutorials
+Codebasics|2100|1400000|780|Education|Data science and ML tutorials in plain language
+Krish Naik|3400|2300000|1100|Education|Chief Data Scientist, ML and AI educator
+CampusX|1560|890000|670|Education|Hindi-language data science and AI education
+Data Science Dojo|2340|1200000|890|Education|Data science training and community
+Kaggle|1890|3400000|560|Education|World's largest data science and ML community
+Towards Data Science|4500|2800000|1200|Digital creator|Sharing concepts, ideas, and codes on data science
+Analytics Vidhya|3210|1800000|980|Education|India's largest data science learning platform
+fast.ai|678|980000|340|Education|Making deep learning accessible to everyone
+DeepLearning.AI|1230|2100000|560|Education|World-class AI education by Andrew Ng
+Elon Musk|1870|190000000|450|Person of public figure|CEO of Tesla, SpaceX, xAI; owner of X
+Bill Gates|1560|78000000|230|Person of public figure|Co-founder of Microsoft, philanthropist
+Jeff Bezos|234|3200000|180|Person of public figure|Founder of Amazon and Blue Origin
+Sundar Pichai|678|7800000|320|Person of public figure|CEO of Google and Alphabet
+Satya Nadella|890|5600000|450|Person of public figure|CEO of Microsoft, cloud and AI visionary
+Tim Cook|345|14000000|270|Person of public figure|CEO of Apple, privacy advocate
+Mark Zuckerberg|1230|12000000|380|Person of public figure|CEO of Meta, building the metaverse and AI
+NVIDIA|5600|20000000|890|Software company|Powering the AI revolution with GPUs
+Apple|1230|34000000|340|Electronics company|Think different. Designed by Apple in California
+Microsoft|4500|15000000|780|Software company|Empowering every person and organization on the planet
+Google|6700|28000000|1100|Software company|Organizing the world's information and making it useful
+Amazon|3400|17000000|650|E-commerce company|Work hard. Have fun. Make history
+Tesla|2340|19000000|230|Automotive company|Accelerating the world's transition to sustainable energy
+SpaceX|1120|9800000|180|Aerospace company|Making life multiplanetary
+WIRED|12000|4500000|2300|Magazine|WIRED is where tomorrow is realized
+TechCrunch|18000|5600000|3400|Magazine|Startup and technology news
+The Verge|21000|6800000|4500|Magazine|Science, technology, art, and culture
+MIT Technology Review|9800|3200000|1800|Magazine|Technology coverage from the world's oldest tech publication
+Nature|23000|8900000|2100|Magazine|International weekly journal of science
+Science Magazine|18700|7200000|1900|Magazine|Advancing science, serving society
+IEEE Spectrum|8900|2100000|1600|Non-profit organization|Technology, engineering, and science news from IEEE
+ACM|5600|890000|1200|Non-profit organization|Association for Computing Machinery
+NeurIPS|1230|780000|340|Non-profit organization|Neural Information Processing Systems conference
+ICLR|890|560000|290|Non-profit organization|International Conference on Learning Representations
+ICML|1120|670000|310|Non-profit organization|International Conference on Machine Learning
+AAAI|1560|430000|380|Non-profit organization|Association for the Advancement of Artificial Intelligence
+CMU AI|2340|890000|560|Education|AI research at Carnegie Mellon University
+Berkeley AI Research|1890|1200000|490|Education|BAIR — advancing AI research at UC Berkeley
+Oxford Internet Institute|1120|670000|430|Education|Multidisciplinary research on the internet and society
+Cambridge AI Group|890|540000|370|Education|AI research at the University of Cambridge
+ETH Zurich|1560|2300000|670|Education|Where innovation meets excellence in science and tech
+Vector Institute|678|340000|290|Education|AI research institute in Toronto, Canada
+Mila Quebec AI|1230|560000|380|Non-profit organization|World-leading AI research in Montreal
+Alan Turing Institute|890|430000|320|Non-profit organization|UK's national institute for data science and AI
+EleutherAI|456|780000|340|Non-profit organization|Open-source AI research collective
+LAION|234|230000|210|Non-profit organization|Large-scale open datasets for AI research
+Together AI|289|340000|270|Software company|Fast and scalable open-source AI infrastructure
+Modal Labs|178|210000|190|Software company|Cloud computing for AI applications
+Replicate|567|780000|380|Software company|Run AI models in the cloud with one line of code
+Gradio|345|560000|310|Software company|Build and share ML demos in Python
+OpenRouter|189|230000|450|Software company|Unified API for hundreds of AI models
+Civitai|1230|560000|670|Digital creator|Community hub for AI-generated art and models
+Abacus AI|345|290000|230|Software company|Enterprise AI and ML platform
+Tomek Korbak|89|34000|230|Scientist|AI safety researcher at Anthropic
+Nathan Lambert|123|89000|340|Scientist|AI researcher, formerly at HuggingFace and Allen AI
+Colin Wolfe|67|23000|180|Scientist|NLP and AI alignment researcher
