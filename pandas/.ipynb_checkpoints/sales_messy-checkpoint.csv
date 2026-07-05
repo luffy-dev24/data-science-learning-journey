@@ -1,0 +1,16 @@
+order_id,customer,product,quantity,price,order_date,status,region
+1001,Ravi Kumar,Laptop,2,$450.00,04/01/2024,Delivered,South
+1002,Sneha Reddy,Mouse,5,$12.50,04/02/2024,delivered,North
+1003,Amit Shah,Keyboard,,25.00,2024-04-02,Pending,east
+1004,Priya Nair,Laptop,1,450,04/03/2024,DELIVERED,South
+1005,,Monitor,3,150.00,04/04/2024,Cancelled,West
+1006,Vikram Rao,Mouse,2,12.5,04/04/2024,Delivered,North
+1007,Sneha Reddy,Mouse,5,$12.50,04/02/2024,delivered,North
+1008,Anita Desai,Keyboard,4,25,invalid_date,Pending,East
+1009,Rahul Verma,Laptop,-1,450.00,04/06/2024,Delivered,south
+1010,Kavita Joshi,Monitor,2,$150.00,04/07/2024,Returned,West
+1011,Suresh Iyer,Mouse,10,12.50,04/08/2024,Delivered,North
+1012,Neha Gupta,Keyboard,3,,04/09/2024,Pending,East
+1013,Rahul Verma,Laptop,1,450.00,04/06/2024,Delivered,South
+1014,Anjali Mehta,Monitor,999,150.00,04/10/2024,Delivered,west
+1015,Deepak Singh,Mouse,2,12.50,04/11/2024,pending,North
