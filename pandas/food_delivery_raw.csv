@@ -1,0 +1,21 @@
+order_id,restaurant,cuisine,order_amount,delivery_minutes,order_date,payment_mode,delivery_rating,customer_city
+7001,Spice Villa,Indian,450,32,2024-03-01,card,4.5,Pune
+7002,burger barn,American,320,25,2024-03-01,Cash,4.0,mumbai
+7003,Spice Villa,indian,450,32,2024-03-01,Card,4.5,Pune
+7004,Sushi Central,Japanese,890,,03/02/2024,UPI,4.8,Delhi
+7005,Pasta Palace,Italian,610,40,2024-03-02,cash,,Pune
+7006,Burger Barn,american,290,22,2024-03-03,Card,3.9,Mumbai
+7007,Curry House,Indian,530,-10,2024-03-03,upi,4.2,delhi
+7008,Sushi Central,japanese,910,55,2024-03-04,Card,4.7,Delhi
+7009,Pasta Palace,Italian,610,40,2024-03-02,Cash,4.1,Pune
+7010,Taco Town,Mexican,275,28,2024-03-04,UPI,4.3,Bangalore
+7011,Curry House,indian,540,35,04-03-2024,Cash,4.0,Delhi
+7012,Burger Barn,American,305,850,2024-03-05,card,3.8,mumbai
+7013,Taco Town,mexican,,30,2024-03-05,Cash,4.5,bangalore
+7014,Spice Villa,Indian,470,38,2024-03-06,UPI,,Pune
+7015,Sushi Central,Japanese,-890,45,2024-03-06,Card,4.6,Delhi
+7016,Pasta Palace,italian,625,42,invalid_date,Cash,4.2,Pune
+7017,Curry House,Indian,550,33,2024-03-07,upi,4.1,Delhi
+7018,Taco Town,Mexican,280,26,2024-03-07,Card,4.4,Bangalore
+7019,Burger Barn,American,310,24,2024-03-08,cash,3.7,Mumbai
+7020,Spice Villa,indian,460,36,2024-03-08,UPI,4.5,pune

@@ -1,0 +1,21 @@
+view_id,user_name,show_title,genre,watch_minutes,user_rating,watch_date,device,plan,user_age
+9001,Zara Khan,Midnight Trail,Thriller,45,4.5,2024-02-01,Mobile,premium,24
+9002,arjun mehta,Comedy Hour,Comedy,20,3.8,2024-02-01,TV,Premium,31
+9003,Zara Khan,Midnight Trail,Thriller,45,4.5,2024-02-01,Mobile,premium,24
+9004,Leo Fernandes,Space Odyssey,Sci-Fi,,4.9,02/02/2024,tv,basic,29
+9005,Priya Das,The Last Case,Thriller,60,,2024-02-02,Mobile,PREMIUM,
+9006,Rohan Kapoor,Comedy Hour,comedy,25,4.0,2024-02-03,Tablet,basic,19
+9007,Meera Iyer,Ocean Deep,Documentary,90,4.7,03-02-2024,TV,premium,45
+9008,Sana Ali,Space Odyssey,sci-fi,55,4.2,2024-02-03,Mobile,Basic,27
+9009,arjun mehta,Comedy Hour,Comedy,20,3.8,2024-02-01,TV,Premium,31
+9010,Karan Bose,Midnight Trail,Thriller,-15,3.0,2024-02-04,Mobile,premium,22
+9011,Divya Nair,The Last Case,thriller,65,4.6,2024-02-04,TV,basic,38
+9012,Farah Sheikh,Ocean Deep,Documentary,99999,4.8,2024-02-05,Tablet,Premium,33
+9013,Ibrahim Sait,Comedy Hour,Comedy,18,3.5,invalid_date,Mobile,basic,250
+9014,Neha Joshi,Space Odyssey,Sci-Fi,50,4.3,2024-02-05,tv,Basic,26
+9015,Vivek Rao,The Last Case,Thriller,70,,2024-02-06,Mobile,premium,41
+9016,Tanya Grover,Ocean Deep,documentary,85,4.9,2024-02-06,TV,basic,
+9017,Karan Bose,Midnight Trail,Thriller,42,3.0,2024-02-04,Mobile,premium,22
+9018,Ayesha Khan,Comedy Hour,Comedy,22,3.9,2024-02-07,Tablet,Basic,30
+9019,Rahul Sen,Space Odyssey,sci-fi,58,4.4,2024-02-07,Mobile,premium,35
+9020,Anita Roy,Midnight Trail,thriller,48,4.1,2024-02-08,TV,basic,28

@@ -1,0 +1,21 @@
+booking_id,member_name,branch,trainer,class_type,fee,session_minutes,booking_date,membership_type,member_rating
+8001,Rohit Sharma,Downtown,Aditi,Yoga,500,60,2024-04-01,gold,4.5
+8002,priya patel,uptown,Rahul,HIIT,700,45,2024-04-01,Gold,4.2
+8003,Rohit Sharma,Downtown,Aditi,Yoga,500,60,2024-04-01,gold,4.5
+8004,Sameer Khan,Downtown,Aditi,Yoga,500,55,04/02/2024,silver,4.0
+8005,Neha Verma,Uptown,Rahul,hiit,700,,2024-04-02,gold,
+8006,Aman Gupta,eastside,Kiran,Pilates,600,50,2024-04-02,Silver,4.3
+8007,priya patel,Uptown,Rahul,HIIT,700,45,2024-04-01,gold,4.2
+8008,Divya Singh,Downtown,aditi,yoga,510,62,2024-04-03,Gold,4.6
+8009,Karan Mehta,Eastside,Kiran,pilates,600,48,03-04-2024,silver,4.1
+8010,Sana Iqbal,uptown,Rahul,HIIT,720,-20,2024-04-04,Gold,3.9
+8011,Vivek Rao,Downtown,Aditi,Yoga,505,58,2024-04-04,silver,4.4
+8012,Farah Ali,Eastside,kiran,Pilates,610,52,2024-04-05,Silver,4.2
+8013,Ishaan Kapoor,Uptown,rahul,HIIT,700,300,2024-04-05,gold,4.0
+8014,Meera Joshi,downtown,Aditi,Yoga,500,60,2024-04-06,Gold,4.7
+8015,Aman Gupta,Eastside,Kiran,pilates,600,50,2024-04-02,silver,4.3
+8016,Kabir Nair,Uptown,Rahul,hiit,-700,42,2024-04-06,gold,3.8
+8017,Ritu Chawla,Eastside,Kiran,Pilates,615,49,invalid_date,Silver,4.5
+8018,Nikhil Bansal,Downtown,aditi,Yoga,500,60,2024-04-07,gold,4.6
+8019,Alia Sheikh,uptown,Rahul,HIIT,710,44,2024-04-07,Gold,4.1
+8020,Ritu Chawla,eastside,kiran,pilates,615,49,2024-04-07,silver,4.5
