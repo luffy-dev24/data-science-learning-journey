@@ -1,0 +1,11 @@
+student_id,name,subject,score,attendance
+1,Aarav,Math,78,92
+2,Diya,Science,,88
+3,Kabir,Math,65,
+4,Meera,English,,79
+5,Rohan,Science,54,95
+6,Isha,Math,,
+7,Aditya,English,88,84
+8,Priya,Science,90,
+9,Vivaan,Math,72,90
+10,Sara,English,,81

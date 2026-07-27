@@ -1,0 +1,229 @@
+OrderID,CustomerName,Product,Category,Price,Quantity,OrderDate,City,Rating
+1099,Sanjay Verma,Jeans,Clothing,2426.56,4,2024-05-15,Bengaluru,3.9
+1046,Pooja Gupta,Sofa,Home,44465.05,4,02/01/2024,Hyderabad,3.8
+1105,Divya Sharma,T-Shirt,Clothing,1102.71,2,05/06/2024,pune,2.7
+1022,Aman Das,Sofa,Home,41616.38,1,15-03-2024,New Delhi,3.5
+1078,Isha Sharma,Sneakers,Footwear,₹4252.74,3,16/03/2024,pune,3.1
+1122,Sneha Reddy,Desk Lamp,Home,1439.76,5,02-10-2024,Chennai,4.0
+1125,Nikhil Iyer,Laptop,Electronics,68185.86,2,22-11-2024,MUMBAI,3.5
+1170,Nikhil Sharma,Desk Lamp,Home,₹437.8,2,2024-05-06,Pune ,4.4
+1024,Aman Das,T-Shirt,Clothing,336.39,2,2024-03-13,Chennai,2.6
+1113,Isha Patel,Smartphone,Electronics,12401.1,5,21/06/2024,Pune ,2.6
+1011,Priya Singh,Headphones,Electronics,3582.59,2,2024-10-22,pune,3.6
+1215,Kabir Gupta,Sandals,Footwear,₹849.61,4,07/08/2024,New Delhi,4.6
+1074,Anjali Iyer,Jeans,Clothing,2064.87,2,21/07/2024,BANGALORE,2.6
+1180,Aman Sharma,Sofa,Home,34012.76,4,2024-09-10,DELHI,3.3
+1002,Arjun Nair,Laptop,Electronics,₹66679.8,3,2024-08-02,hyderabad,2.6
+1102,Meera Verma,Desk Lamp,Home,,2,2024-11-23,Hyderabad ,3.6
+1210,Aman Patel,Laptop,Electronics,₹82992.37,5,16-08-2024,Chennai,4.1
+1109,Meera Singh,T-Shirt,Clothing,681.8,-2,2024-02-03,Bangalore,3.3
+1090,Anjali Sharma,T-Shirt,Clothing,602.9,2,2024-10-26,Mumbai,3.3
+1184,Tara Iyer,Desk Lamp,Home,440.28,3,2024-10-08,chennai,4.1
+1168,Neha Nair,Smartphone,Electronics,21239.31,4,26-06-2024,New Delhi,3.0
+1108,Sneha Sharma,Jeans,Clothing,₹2003.91,3,2024-07-22,New Delhi,4.4
+1084,Anjali Das,Sandals,Footwear,993.32,5,24-07-2024,Bangalore,2.9
+1057,Anjali Das,T-Shirt,Clothing,475.72,5,2024-03-04,Pune,3.7
+1116,Aman Reddy,Sofa,Home,33826.74,3,25-11-2024,BANGALORE,4.8
+1212,Anjali Reddy,Sneakers,Footwear,3859.76,4,2024-03-06,Pune ,3.7
+1182,Nikhil Reddy,Jeans,Clothing,1545.87,1,01/07/2024,CHENNAI,3.1
+1101,Pooja Sharma,Jeans,Clothing,2079.04,1,21-10-2024,Bangalore,2.8
+1156,Rohan Reddy,Sandals,Footwear,815.01,2,2024-07-17,pune,3.9
+1205,Aman Iyer,Jeans,Clothing,1099.86,4,24/01/2024,mumbai,3.5
+1085,Rahul Patel,Headphones,Electronics,4765.86,4,27-04-2024,BANGALORE,4.0
+1158,Meera Reddy,Headphones,Electronics,2790.67,2,13-02-2024,MUMBAI,4.5
+1139,Sneha Singh,T-Shirt,Clothing,771.24,1,04-10-2024,MUMBAI,4.9
+1102,Meera Verma,Desk Lamp,Home,,2,2024-11-23,Hyderabad ,3.6
+1065,Priya Patel,Jeans,Clothing,1299.11,2,2024-08-25,Bangalore,4.5
+1141,Tara Reddy,Headphones,Electronics,992.62,5,11-11-2024,bangalore,3.4
+1153,Omar Verma,Headphones,Electronics,3826.17,2,24-03-2024,pune,2.6
+1193,Arjun Reddy,Sofa,Home,32501.75,2,12/10/2024,pune,4.9
+1082,Anjali Singh,Smartphone,Electronics,25150.66,2,04-02-2024,DELHI,4.9
+1060,Neha Verma,Blender,Home,2747.74,3,20/05/2024,chennai,5.0
+1132,Aman Gupta,Smartphone,Electronics,20866.19,2,22-06-2024,Hyderabad ,3.7
+1009,Meera Das,Sofa,Home,21926.81,4,2024-12-07,mumbai,3.6
+1018,Sneha Sharma,Sneakers,Footwear,1524.85,3,08/03/2024,Pune,3.0
+1114,Rahul Reddy,Sneakers,Footwear,5660.89,4,03/03/2024,Pune,2.7
+1080,Omar Reddy,Desk Lamp,Home,412.99,4,16/10/2024,mumbai,2.9
+1095,Aman Das,Jeans,Clothing,11459.44,5,23-07-2024,CHENNAI,3.1
+1066,Anjali Patel,Desk Lamp,Home,,2,04/04/2024,Bangalore,2.5
+1213,Karan Singh,Headphones,Electronics,1452.01,1,23/07/2024,Hyderabad,3.3
+1218,Anjali Iyer,T-Shirt,Clothing,514.36,2,24/08/2024,Hyderabad,4.5
+1098,Divya Singh,Jeans,Clothing,818.42,1,09-07-2024,delhi,4.6
+1014,Arjun Singh,Blender,Home,2797.24,4,08-05-2024,CHENNAI,2.6
+1027,Sanjay Singh,Headphones,Electronics,2016.96,4,13-09-2024,New Delhi,4.8
+1104,Vikram Sharma,Sandals,Footwear,1353.56,5,09-02-2024,chennai,3.1
+1040,Isha Sharma,Sandals,Footwear,989.35,1,27/06/2024,CHENNAI,2.9
+1045,Tara Nair,Smartphone,Electronics,42514.89,2,28/10/2024,Pune ,3.1
+1157,Rahul Reddy,Desk Lamp,Home,407.05,4,13/04/2024,Bengaluru,3.1
+1031,Omar Sharma,Headphones,Electronics,4235.66,1,06/08/2024,CHENNAI,3.3
+1173,Divya Iyer,T-Shirt,Clothing,481.56,2,2024-09-05,pune,2.7
+1169,Tara Singh,Jeans,Clothing,2008.62,4,2024-12-17,bangalore,3.8
+1032,Isha Iyer,Laptop,Electronics,73693.13,5,10-12-2024,Delhi,4.2
+1013,Pooja Verma,Jeans,Clothing,2397.15,4,16-08-2024,Chennai,4.0
+1133,Rahul Verma,Blender,Home,,2,22-12-2024,Hyderabad,4.6
+1138,Anjali Khan,Sofa,Home,31423.39,1,2024-07-28,chennai,
+1145,Divya Patel,Blender,Home,3069.16,2,19/03/2024,Hyderabad,4.0
+1028,Sneha Singh,Sofa,Home,145318.64,4,2024-04-12,mumbai,4.5
+1063,Kabir Reddy,T-Shirt,Clothing,488.03,2,2024-02-10,hyderabad,3.1
+1094,Karan Das,Jeans,Clothing,2076.05,3,16/04/2024,hyderabad,5.0
+1128,Neha Verma,T-Shirt,Clothing,1031.61,5,2024-07-21,Pune ,5.0
+1015,Neha Patel,Sandals,Footwear,827.55,2,2024-10-24,Hyderabad ,3.8
+1034,Neha Patel,Jeans,Clothing,1486.52,1,12/07/2024,Hyderabad,3.1
+1058,Rahul Sharma,Laptop,Electronics,81899.39,1,14/05/2024,Bangalore,5.0
+1174,Sneha Sharma,Smartphone,Electronics,37087.52,3,06/07/2024,BANGALORE,3.7
+1036,Vikram Sharma,Sofa,Home,23003.43,2,2024-07-22,bangalore,3.8
+1097,Sanjay Sharma,Headphones,Electronics,4271.12,5,17-04-2024,Pune,4.7
+1203,Rohan Gupta,Sofa,Home,25390.38,2,2024-01-27,Chennai,3.7
+1051,Sanjay Khan,Blender,Home,24462.4,5,14-02-2024,Hyderabad ,3.2
+1198,Karan Verma,Desk Lamp,Home,1308.53,3,2024-05-14,Hyderabad ,3.6
+1160,Nikhil Sharma,Headphones,Electronics,3170.73,2,06-04-2024,Bengaluru,3.2
+1096,Tara Reddy,Jeans,Clothing,2082.72,1,17-04-2024,bangalore,3.4
+1204,Meera Gupta,Blender,Home,₹2843.79,3,19-06-2024,Mumbai ,3.6
+1126,Divya Verma,Sandals,Footwear,10610.64,5,09/03/2024,chennai,2.7
+1131,Divya Reddy,Laptop,Electronics,63002.5,1,2024-12-02,hyderabad,
+1192,Pooja Verma,Sofa,Home,,4,10-08-2024,Mumbai ,3.0
+1154,Rohan Iyer,Jeans,Clothing,,3,13-02-2024,MUMBAI,3.8
+1037,Arjun Reddy,Sneakers,Footwear,,1,2024-05-02,Mumbai ,4.1
+1150,Kabir Singh,Laptop,Electronics,₹87230.53,5,04/01/2024,Hyderabad,2.5
+1088,Karan Verma,Headphones,Electronics,4837.0,2,13/12/2024,Bengaluru,3.0
+1148,Aman Patel,Desk Lamp,Home,454.5,2,09/10/2024,bangalore,4.2
+1115,Divya Khan,Blender,Home,₹3914.05,2,17-01-2024,Mumbai ,2.9
+1049,Riya Das,Sandals,Footwear,1341.96,1,11/01/2024,Hyderabad ,4.1
+1179,Omar Verma,Blender,Home,1658.24,5,19/11/2024,CHENNAI,3.0
+1005,Kabir Das,Sneakers,Footwear,4253.34,2,28-03-2024,pune,2.6
+1017,Pooja Iyer,Blender,Home,₹1243.78,1,2024-08-12,CHENNAI,4.4
+1143,Aman Gupta,Sofa,Home,32542.98,3,08/04/2024,delhi,2.8
+1134,Anjali Iyer,Blender,Home,2770.63,3,16/07/2024,Chennai,3.5
+1190,Kabir Nair,Sneakers,Footwear,3688.61,4,02/11/2024,Bangalore,4.3
+1202,Rohan Nair,Sofa,Home,25004.98,4,2024-06-11,Delhi,3.8
+1120,Priya Nair,Laptop,Electronics,79435.66,1,21/04/2024,hyderabad,3.2
+1086,Omar Gupta,Sandals,Footwear,1033.02,2,2024-01-01,pune,3.9
+1062,Arjun Verma,Sneakers,Footwear,3276.11,2,2024-08-14,Bangalore,4.8
+1064,Isha Nair,Desk Lamp,Home,687.06,1,22/07/2024,BANGALORE,2.8
+1026,Nikhil Verma,Sneakers,Footwear,2621.82,5,2024-07-04,Mumbai ,3.8
+1117,Isha Nair,Sofa,Home,23428.9,4,2024-08-21,Delhi,2.8
+1041,Rohan Gupta,Desk Lamp,Home,1134.98,3,27-04-2024,hyderabad,4.0
+1052,Sanjay Khan,Desk Lamp,Home,882.74,3,2024-04-09,pune,4.1
+1165,Isha Khan,Headphones,Electronics,4925.99,2,11-04-2024,Bengaluru,3.9
+1197,Rahul Reddy,Sneakers,Footwear,4093.3,2,19-08-2024,bangalore,
+1106,Aman Nair,Blender,Home,3962.59,5,2024-01-20,Pune ,3.4
+1081,Riya Singh,Laptop,Electronics,₹81717.75,5,01/05/2024,delhi,3.7
+1007,Pooja Iyer,Sandals,Footwear,1068.3,5,18-04-2024,CHENNAI,3.6
+1091,Priya Khan,Sneakers,Footwear,₹1604.72,2,2024-04-07,chennai,3.2
+1199,Nikhil Sharma,T-Shirt,Clothing,9490.88,4,25/01/2024,Bengaluru,2.8
+1166,Nikhil Verma,Sandals,Footwear,405.83,1,2024-03-06,chennai,3.7
+1070,Meera Reddy,T-Shirt,Clothing,783.37,5,21-12-2024,hyderabad,3.8
+1200,Anjali Verma,Laptop,Electronics,85446.37,3,21-09-2024,DELHI,4.0
+1129,Nikhil Das,Headphones,Electronics,4029.75,5,19/01/2024,DELHI,4.4
+1008,Nikhil Iyer,T-Shirt,Clothing,1147.98,2,26/05/2024,Pune ,3.5
+1121,Aman Verma,Desk Lamp,Home,1023.34,5,03/06/2024,delhi,2.8
+1079,Isha Gupta,Smartphone,Electronics,₹37008.92,1,28/05/2024,Chennai,3.4
+1140,Omar Khan,Laptop,Electronics,87430.57,2,2024-08-20,Chennai,4.4
+1180,Aman Sharma,Sofa,Home,34012.76,4,2024-09-10,DELHI,3.3
+1029,Aman Verma,Sneakers,Footwear,5516.52,3,23-12-2024,BANGALORE,3.3
+1003,Karan Verma,Sneakers,Footwear,5245.99,2,21-01-2024,pune,3.0
+1039,Anjali Singh,Smartphone,Electronics,19991.28,5,2024-06-06,BANGALORE,4.1
+1050,Isha Das,Jeans,Clothing,1074.77,4,2024-09-16,Hyderabad ,4.0
+1077,Meera Nair,Headphones,Electronics,3572.83,5,07/05/2024,Hyderabad,4.1
+1219,Pooja Nair,Jeans,Clothing,2171.65,4,2024-05-22,Hyderabad,4.9
+1111,Sanjay Verma,Laptop,Electronics,81047.41,3,2024-12-25,Hyderabad ,4.0
+1195,Anjali Sharma,Laptop,Electronics,85524.34,4,2024-04-16,Hyderabad,2.8
+1054,Aman Sharma,Laptop,Electronics,,3,2024-12-01,Pune,4.1
+1043,Nikhil Patel,Blender,Home,1688.23,1,07-02-2024,hyderabad,3.5
+1178,Arjun Nair,Sneakers,Footwear,5288.23,3,14-12-2024,Hyderabad,4.5
+1048,Arjun Verma,Sofa,Home,25170.89,3,16/03/2024,Hyderabad ,4.3
+1171,Riya Gupta,Desk Lamp,Home,907.32,4,03-01-2024,chennai,3.3
+1059,Rohan Reddy,Sneakers,Footwear,5475.72,4,24-01-2024,Pune,2.5
+1053,Meera Reddy,Blender,Home,3194.1,1,2024-04-16,hyderabad,3.7
+1020,Neha Khan,Sofa,Home,18476.07,1,02/01/2024,Chennai,4.1
+1124,Rohan Singh,Smartphone,Electronics,204571.36,1,15-01-2024,Hyderabad ,3.7
+1214,Anjali Khan,Jeans,Clothing,2080.52,2,14/02/2024,Hyderabad,3.2
+1147,Riya Reddy,Headphones,Electronics,3104.6,5,2024-02-26,Chennai,3.7
+1076,Priya Gupta,Desk Lamp,Home,487.72,2,22-09-2024,pune,3.1
+1186,Omar Singh,Desk Lamp,Home,1246.32,1,2024-11-05,Pune ,
+1107,Neha Nair,T-Shirt,Clothing,1152.52,1,2024-06-04,delhi,4.0
+1177,Riya Verma,Blender,Home,1707.45,3,22/12/2024,pune,4.8
+1012,Pooja Sharma,Sofa,Home,32031.01,5,2024-12-26,Delhi,4.9
+1016,Kabir Sharma,T-Shirt,Clothing,₹1168.73,-4,09/01/2024,Pune ,
+1047,Kabir Reddy,Jeans,Clothing,958.27,4,2024-07-27,Pune,3.9
+1164,Priya Nair,Sneakers,Footwear,5290.41,3,08-05-2024,Bengaluru,3.8
+1119,Priya Khan,Jeans,Clothing,14337.76,4,04-11-2024,Bengaluru,3.4
+1021,Sanjay Reddy,Sandals,Footwear,469.91,5,08/06/2024,Mumbai ,4.3
+1146,Omar Khan,Laptop,Electronics,83762.67,2,2024-05-22,Pune ,3.2
+1194,Aman Khan,Smartphone,Electronics,31345.58,2,15/08/2024,Pune ,4.0
+1130,Pooja Gupta,Desk Lamp,Home,589.3,1,19-04-2024,bangalore,2.8
+1208,Anjali Gupta,Sofa,Home,27438.72,4,08-01-2024,Delhi,3.8
+1073,Omar Reddy,Desk Lamp,Home,₹919.56,3,2024-12-19,Hyderabad,4.5
+1030,Isha Iyer,Laptop,Electronics,₹67470.42,1,27-09-2024,bangalore,3.2
+1162,Vikram Gupta,Laptop,Electronics,76202.12,1,2024-06-21,Hyderabad ,2.5
+1033,Rahul Iyer,T-Shirt,Clothing,519.71,3,24-09-2024,DELHI,
+1161,Karan Nair,Sneakers,Footwear,4406.63,2,27-06-2024,Chennai,3.1
+1187,Rahul Singh,Blender,Home,3283.05,4,10/05/2024,DELHI,3.9
+1155,Divya Iyer,T-Shirt,Clothing,702.67,3,25/07/2024,MUMBAI,3.5
+1201,Tara Nair,Desk Lamp,Home,1193.1,2,21/10/2024,Hyderabad,4.5
+1123,Anjali Patel,Jeans,Clothing,2385.64,2,2024-07-05,Chennai,
+1088,Karan Verma,Headphones,Electronics,4837.0,2,13/12/2024,Bengaluru,3.0
+1163,Sanjay Verma,Blender,Home,2223.0,4,24-07-2024,Mumbai ,4.6
+1100,Riya Reddy,Sandals,Footwear,500.87,4,27-05-2024,Bangalore,3.3
+1149,Rohan Das,Smartphone,Electronics,38380.54,1,2024-11-24,CHENNAI,
+1039,Anjali Singh,Smartphone,Electronics,19991.28,5,2024-06-06,BANGALORE,4.1
+1105,Divya Sharma,T-Shirt,Clothing,1102.71,2,05/06/2024,pune,2.7
+1207,Isha Khan,Sandals,Footwear,1129.89,1,17-04-2024,hyderabad,4.9
+1061,Rahul Khan,Blender,Home,1734.55,1,18/09/2024,Bangalore,3.3
+1035,Kabir Reddy,T-Shirt,Clothing,747.52,1,24/01/2024,hyderabad,2.9
+1010,Isha Reddy,Blender,Home,2586.5,3,04-02-2024,Mumbai,4.8
+1217,Arjun Verma,Blender,Home,1491.5,5,01-12-2024,Bangalore,2.9
+1071,Priya Patel,Smartphone,Electronics,19122.09,5,2024-04-06,New Delhi,3.6
+1091,Priya Khan,Sneakers,Footwear,₹1604.72,2,2024-04-07,chennai,3.2
+1206,Priya Khan,Laptop,Electronics,67683.79,3,28-02-2024,Hyderabad,4.1
+1093,Divya Das,Blender,Home,2370.25,5,10/05/2024,Delhi,3.2
+1159,Riya Khan,Smartphone,Electronics,14868.37,2,08-01-2024,CHENNAI,3.9
+1118,Isha Sharma,Sandals,Footwear,586.65,4,26-12-2024,CHENNAI,3.7
+1144,Rohan Khan,Sofa,Home,₹20456.4,1,03/11/2024,New Delhi,4.7
+1001,Isha Iyer,T-Shirt,Clothing,440.42,3,2024-08-11,Chennai,2.7
+1209,Sneha Sharma,Sandals,Footwear,729.56,5,19-11-2024,bangalore,3.5
+1083,Rohan Khan,Blender,Home,1930.5,2,2024-01-26,Hyderabad,4.1
+1216,Kabir Patel,T-Shirt,Clothing,324.39,3,27-08-2024,CHENNAI,
+1087,Sanjay Sharma,Sneakers,Footwear,5150.42,3,03-01-2024,Hyderabad,4.9
+1137,Rahul Khan,Desk Lamp,Home,1063.97,3,02-04-2024,chennai,2.7
+1004,Kabir Patel,Sneakers,Footwear,2869.09,5,2024-11-17,mumbai,3.6
+1038,Meera Verma,Sofa,Home,29683.58,4,24-11-2024,Pune ,2.7
+1058,Rahul Sharma,Laptop,Electronics,81899.39,1,14/05/2024,Bangalore,5.0
+1034,Neha Patel,Jeans,Clothing,1486.52,1,12/07/2024,Hyderabad,3.1
+1189,Nikhil Singh,Blender,Home,2479.6,4,08/05/2024,pune,3.5
+1112,Tara Singh,Headphones,Electronics,1999.99,1,06/10/2024,CHENNAI,3.1
+1181,Tara Nair,Sofa,Home,35489.46,3,2024-07-01,Chennai,4.1
+1183,Tara Gupta,Smartphone,Electronics,29551.3,5,19/07/2024,Pune ,4.8
+1152,Rahul Khan,Smartphone,Electronics,27989.26,2,2024-08-14,Pune,4.4
+1056,Anjali Das,Smartphone,Electronics,26335.01,5,28-01-2024,Bangalore,3.8
+1069,Sneha Singh,Laptop,Electronics,85114.16,1,06/06/2024,Bangalore,2.6
+1191,Sneha Das,T-Shirt,Clothing,877.03,3,26-11-2024,CHENNAI,3.9
+1044,Rohan Gupta,T-Shirt,Clothing,1053.94,3,2024-02-25,Mumbai ,3.4
+1188,Neha Reddy,Jeans,Clothing,2290.5,1,13/04/2024,New Delhi,2.8
+1019,Vikram Gupta,Smartphone,Electronics,38075.79,3,2024-10-07,Hyderabad,2.7
+1006,Rahul Sharma,Headphones,Electronics,2406.34,4,2024-05-03,Pune ,4.0
+1055,Vikram Nair,Headphones,Electronics,2937.02,5,2024-11-08,mumbai,3.7
+1075,Riya Verma,Smartphone,Electronics,26134.38,4,2024-10-26,pune,3.5
+1000,Isha Verma,Smartphone,Electronics,,5,08-05-2024,Delhi,3.0
+1172,Kabir Sharma,Jeans,Clothing,1427.69,2,2024-12-10,pune,3.9
+1135,Karan Reddy,Laptop,Electronics,81429.8,5,11/03/2024,MUMBAI,4.1
+1127,Priya Verma,Desk Lamp,Home,460.62,5,06-12-2024,Bengaluru,2.6
+1176,Neha Patel,Blender,Home,2343.85,5,09-02-2024,Mumbai ,4.3
+1068,Pooja Verma,Blender,Home,2820.82,3,2024-10-22,MUMBAI,3.7
+1167,Omar Iyer,Blender,Home,3498.41,2,08-10-2024,delhi,3.9
+1136,Divya Reddy,Desk Lamp,Home,1383.78,4,18-02-2024,CHENNAI,5.0
+1042,Neha Patel,Sofa,Home,₹15497.63,3,2024-07-20,mumbai,4.5
+1110,Aman Singh,Sneakers,Footwear,3608.97,2,08/09/2024,Chennai,4.4
+1089,Kabir Patel,Sandals,Footwear,510.86,2,18-03-2024,Hyderabad ,
+1072,Anjali Gupta,Sandals,Footwear,852.49,3,2024-02-20,Bangalore,4.1
+1023,Rohan Verma,Laptop,Electronics,₹81627.48,2,2024-07-14,Chennai,
+1142,Nikhil Gupta,T-Shirt,Clothing,516.13,3,23/07/2024,Hyderabad,3.8
+1185,Omar Iyer,Desk Lamp,Home,467.13,5,07-11-2024,Mumbai ,3.7
+1092,Vikram Gupta,Desk Lamp,Home,1131.47,2,24/04/2024,Chennai,4.1
+1103,Divya Singh,Blender,Home,3176.33,4,26/12/2024,Chennai,4.2
+1151,Aman Iyer,Sofa,Home,,3,15/08/2024,Mumbai ,3.0
+1211,Anjali Patel,Sofa,Home,32623.61,1,15-02-2024,mumbai,4.4
+1067,Omar Gupta,Sofa,Home,34498.92,4,2024-12-15,MUMBAI,4.7
+1025,Vikram Iyer,Sofa,Home,15942.88,1,2024-05-04,Pune ,3.3
+1196,Omar Singh,Sneakers,Footwear,5055.38,5,10/01/2024,CHENNAI,4.3
+1175,Rahul Patel,Sandals,Footwear,1273.72,1,2024-12-28,New Delhi,4.6
