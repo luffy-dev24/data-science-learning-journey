@@ -1,0 +1,21 @@
+txn_id,store,category,item,qty,unit_price,txn_date,payment_method,customer_age,rating
+5001,Store A,Electronics,Headphones,2,1499,2023-11-01,Card,28,4.5
+5002,store b,Grocery,Rice 5kg,1,650,2023-11-01,cash,45,
+5003,Store A,electronics,Charger,3,499,01/11/2023,Card,,3.8
+5004,Store C,Clothing,T-Shirt,,799,2023-11-02,UPI,31,4.0
+5005,Store B,Grocery,Rice 5kg,1,650,2023-11-02,Cash,45,4.2
+5006,Store A,Electronics,Headphones,2,1499,2023-11-01,Card,28,4.5
+5007,Store D,clothing,Jeans,1,1999,2023-11-03,card,-5,3.0
+5008,Store C,Grocery,Sugar 1kg,4,45,2023-11-03,UPI,52,4.6
+5009,store a,Electronics,Mouse,2,399,03-11-2023,Cash,,
+5010,Store B,Clothing,T-Shirt,5,799,2023-11-04,Card,29,4.9
+5011,Store D,Grocery,Sugar 1kg,,45,2023-11-04,upi,60,4.1
+5012,Store C,Electronics,Charger,1,499,2023-11-05,Card,150,3.5
+5013,Store A,Clothing,Jeans,2,1999,2023-11-05,Cash,33,
+5014,Store B,Grocery,Rice 5kg,1,650,2023-11-02,Cash,45,4.2
+5015,Store D,Electronics,Mouse,10,399,2023-11-06,card,41,4.4
+5016,Store C,clothing,T-Shirt,3,799,invalid,UPI,26,4.3
+5017,Store A,Grocery,Sugar 1kg,2,-45,2023-11-07,Cash,38,4.0
+5018,Store B,Electronics,Headphones,1,1499,2023-11-07,Card,,4.7
+5019,Store D,Clothing,Jeans,999,1999,2023-11-08,upi,47,3.9
+5020,store c,Grocery,Rice 5kg,2,650,2023-11-08,cash,55,4.2
