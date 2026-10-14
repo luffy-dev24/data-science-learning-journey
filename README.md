@@ -55,9 +55,8 @@ I'm a Computer Science graduate passionate about **Data Science**, **Machine Lea
 Python/
 NumPy/
 Pandas/
-Projects/
-Datasets/
-Notes/
+matplotlib/
+EDA/
 ```
 
 ## 💻 Tech Stack
