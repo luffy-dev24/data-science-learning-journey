@@ -1,0 +1,41 @@
+order_id,customer_name,age,gender,city,product_category,product,quantity,unit_price,discount,order_date,payment_method,rating,delivery_days
+1001,Ravi Kumar,28,M,Hyderabad,Electronics,Wireless Mouse,2,$25.50,0.10,2026-01-05,Credit Card,4,3
+1002,  priya sharma,34,F,mumbai,electronics,Bluetooth Speaker,1,"$1,200.00",0.05,05/01/2026,UPI,5,2
+1003,ANIL VERMA,,M,Delhi,Clothing,Jacket,1,89.99,0,2026-01-07,Cash,3,5
+1004,Sneha Reddy,29,f,Hyderabad,Home & Kitchen,Mixer Grinder,1,120,0.15,Jan 9 2026,Debit Card,4,4
+1005,Karthik Rao,41,Male,Bangalore,Books,Python Cookbook,3,15.00,0,2026-01-10,UPI,5,2
+1006,Meena Iyer,-25,Female,Chennai,Clothing,T-Shirt,4,12.5,0.2,2026-01-11,Credit Card,2,6
+1007,Rahul Singh,52,M,Delhi,Electronics,Laptop,1,"$45,000.00",0.08,2026-01-12,Credit Card,5,3
+1008,Ravi Kumar,28,M,Hyderabad,Electronics,Wireless Mouse,2,$25.50,0.10,2026-01-05,Credit Card,4,3
+1009,Divya Nair,31,F,Kochi,Books,Data Science Handbook,2,22.00,,2026-01-14,Net Banking,,4
+1010,Arjun Mehta,23,M,Pune,Electronics,Headphones,1,N/A,0.1,2026-01-15,UPI,4,2
+1011,Pooja Gupta,37,F,Hyderabad,home & kitchen,Air Fryer,1,150.00,0.12,15-01-2026,Credit Card,5,3
+1012,Suresh Babu,48,M,Chennai,Clothing,Jeans,2,45.00,0,2026-01-17,Cash,3,7
+1013,Anjali Das,26,F,Kolkata,Books,Novel Set,5,8.75,0.05,2026-01-18,UPI,4,5
+1014,Vikram Joshi,999,M,Mumbai,Electronics,Smartwatch,1,199.99,0.1,2026-01-19,Credit Card,4,2
+1015,Neha Kapoor,30,F,Delhi,Clothing,Dress,1,75.00,0.25,2026-01-20,Debit Card,,4
+1016,Imran Khan,35,M,Hyderabad,Electronics,Power Bank,3,20.00,0,2026-01-21,UPI,5,1
+1017,Lakshmi Prasad,44,F,Bangalore,Home & Kitchen,Cookware Set,1,110.00,0.1,2026-01-22,Net Banking,4,3
+1018,Sandeep Yadav,,M,Pune,Books,Finance Basics,2,18.00,0,22/01/2026,Cash,3,6
+1019,Kavya Menon,27,F,Kochi,Clothing,Saree,2,60.00,0.15,2026-01-24,UPI,5,4
+1020,Rohit Sharma,33,M,Mumbai,Electronics,Tablet,1,350.00,0.05,2026-01-25,Credit Card,4,2
+1021,Priya Sharma,34,F,Mumbai,Electronics,Bluetooth Speaker,1,"$1,200.00",0.05,05/01/2026,UPI,5,2
+1022,Gopal Krishna,58,M,Hyderabad,Home & Kitchen,Water Purifier,1,210.00,0.2,2026-01-27,Cash,2,9
+1023,Swati Pillai,25,F,Chennai,Clothing,Kurta,3,30.00,0.1,2026-01-28,Debit Card,4,5
+1024,Manoj Tiwari,39,M,Delhi,Books,History of India,1,25.00,0,2026-01-29,UPI,,3
+1025,Deepa Rani,32,F,Hyderabad,Electronics,Wireless Mouse,1,25.50,0.1,2026-01-30,Credit Card,4,2
+1026,Harish Patel,45,M,Ahmedabad,Clothing,Blazer,1,130.00,0.3,2026-02-01,Credit Card,3,8
+1027,Tanvi Shah,22,F,Ahmedabad,Books,Poetry Collection,2,10.00,0,2026-02-02,UPI,5,4
+1028,Nikhil Bose,36,M,Kolkata,Electronics,Gaming Console,1,499.00,0.07,2026-02-03,Net Banking,5,3
+1029,Rekha Naidu,50,F,Hyderabad,Home & Kitchen,Mixer Grinder,2,120,0.15,2026-02-04,Cash,4,4
+1030,Aman Verma,29,M,Delhi,Electronics,Headphones,2,89.00,0.1,2026-02-05,UPI,4,2
+1031,Fatima Sheikh,31,F,Mumbai,Clothing,Hoodie,2,55.00,0.2,2026-02-06,Debit Card,3,6
+1032,Ravi Teja,27,M,Hyderabad,Books,Python Cookbook,1,15.00,0,2026-02-07,UPI,5,1
+1033,Shweta Rao,38,F,Bangalore,Electronics,Laptop,-1,"$52,000.00",0.1,2026-02-08,Credit Card,1,
+1034,Tarun Malhotra,43,M,Delhi,Home & Kitchen,Air Fryer,1,150.00,0.12,2026-02-09,Credit Card,5,3
+1035,Bhavana Reddy,24,F,Hyderabad,Clothing,Jeans,2,45.00,0,2026-02-10,UPI,4,3
+1036,Ajay Kumar,,M,Chennai,Electronics,Power Bank,2,20.00,0.05,2026-02-11,Cash,3,5
+1037,Sunita Rao,46,F,Pune,Books,Finance Basics,1,18.00,0,2026-02-12,Net Banking,4,4
+1038,Dinesh Chandra,55,M,Hyderabad,Home & Kitchen,Cookware Set,1,110.00,0.1,2026-02-13,Credit Card,2,10
+1039,Ishita Jain,28,F,Delhi,Clothing,Dress,2,75.00,0.25,2026-02-14,UPI,5,2
+1040,Varun Dhawan,34,M,Mumbai,Electronics,Smartwatch,1,199.99,0.1,2026-02-15,Credit Card,4,2
